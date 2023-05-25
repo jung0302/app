@@ -7,10 +7,10 @@
 
 결과물
   Home Fragment
-<img width="449" alt="image" src="https://github.com/jung0302/app/assets/100751116/687e6daf-4cef-4cbb-ac24-4e32a21a48e1">
+<img width="800" alt="image" src="https://github.com/jung0302/app/assets/100751116/687e6daf-4cef-4cbb-ac24-4e32a21a48e1">
 
   Library Fragment
-<img width="446" alt="image" src="https://github.com/jung0302/app/assets/100751116/2072c8a2-ea4c-469b-b2ed-72cbdee5ceab">
+<img width="800" alt="image" src="https://github.com/jung0302/app/assets/100751116/2072c8a2-ea4c-469b-b2ed-72cbdee5ceab">
 
 
 
