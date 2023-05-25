@@ -5,7 +5,7 @@
 
 <img width="257" alt="image" src="https://github.com/jung0302/app/assets/100751116/ad06fe07-c286-4d50-b4c0-d2a33a82d94c">                <img width="257" alt="image" src="https://github.com/jung0302/app/assets/100751116/2fbe50a8-5cfb-4a01-8455-97b8e39e7139">                <img width="257" alt="image" src="https://github.com/jung0302/app/assets/100751116/7eca1f3b-5e76-40ec-91b8-5da38503e937">
 
-  <PRE>
+  </PRE>
 # 결과물
     
     
@@ -18,7 +18,7 @@
   
 <img width="800" alt="image" src="https://github.com/jung0302/app/assets/100751116/2072c8a2-ea4c-469b-b2ed-72cbdee5ceab">
 
-<PRE>
+</PRE>
 
 
 
