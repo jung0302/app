@@ -2,7 +2,7 @@
 
 <img width="163" alt="image" src="https://github.com/jung0302/app/assets/100751116/b3a0f72f-2306-4b41-b1ec-68e829aef849">
 
-<img width="163" alt="image" src="https://github.com/jung0302/app/assets/100751116/86d8ba1b-e6fa-4742-8393-8da1f6757293">/br
+<img width="163" alt="image" src="https://github.com/jung0302/app/assets/100751116/86d8ba1b-e6fa-4742-8393-8da1f6757293">
 
 <img width="163" alt="image" src="https://github.com/jung0302/app/assets/100751116/865c574e-bd09-4228-b54d-faa3f4c4c81e">
 
